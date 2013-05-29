@@ -11,6 +11,10 @@ Mentor: Vasilios Keramaris
 
 Version 0.1
 
+### [Diamond ERP v0.1 Demo] (http://carniadesign.com/derp/)
+
+username: root password: marko
+
 ### Current Version - [Diamond ERP v1.1](https://github.com/psybaron/diamond_erp)
 ### RC Version - [Diamond ERP v2.1 RC](https://github.com/psybaron/diamond_erp/tree/dev)
 
